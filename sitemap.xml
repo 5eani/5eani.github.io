@@ -11,11 +11,10 @@
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
-  	<loc>https://5eani.github.io/ueo/</loc>
+  <loc>https://5eani.github.io/ueo/web-read-skill.html</loc>
   	<lastmod>2018-05-04</lastmod>
   	<changefreq>daily</changefreq>
-  	<priority>0.6</priority>
+  	<priority>0.8</priority>
   </url>
   <url>
   	<loc>https://5eani.github.io/ueo/</loc>
